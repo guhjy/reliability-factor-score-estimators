@@ -30,3 +30,6 @@ lapply(reliabilities, round, 3)
 ```
 
 **Remark:** If a factor solution was obtained through the `fa` package, the factor loadings from the solution can be passed through `Lambda`.
+
+## Reference
+Beauducel, A., Harms, C., & Hilger, N. (2016). Reliability estimates for three factor score predictors. International Journal of Statistics and Probability, 5(6), 94–107. http://doi.org/10.5539/ijsp.v5n6p94
